@@ -1,0 +1,4 @@
+https://bounced-legends-supernova-showdon.netlify.app/
+
+el link solo va a ejecutar el ultimo que se subio a netlifi, el que dice optimizado es la ultimar version (sin probar) y el que dice index es el que se ejecuta en netlify, cambiar el index no va a cambiar el subido hasta que se actualice manualmente
+(si vas a hacer cambios, copia el optimizado o el index y haz un archivo nuevo) 
