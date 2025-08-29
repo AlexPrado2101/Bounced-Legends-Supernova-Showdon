@@ -2,3 +2,28 @@ https://bounced-legends-supernova-showdon.netlify.app/
 
 el link solo va a ejecutar el ultimo que se subio a netlifi, el que dice optimizado es la ultimar version (sin probar) y el que dice index es el que se ejecuta en netlify, cambiar el index no va a cambiar el subido hasta que se actualice manualmente
 (si vas a hacer cambios, copia el optimizado o el index y haz un archivo nuevo) 
+
+Caracteristicas:
+Crear una pestaña explicativa de cada power ups de la pelota y arreglar esos mismos power ups
+
+agrega un temporizador de fondo entre puntos para que se sienta que hay presión en la partida, este se reinicia cada vez que alguien anota y un temporizador del tiempo total de la partida
+
+ajusta para que todo el contenido se adapte al tamaño de la pantalla
+
+agrega una barra azul debajo de la amarilla de la habilidad especial que se va cargando sola en 5s y al cargarse aparecen unas bolitas bajo la barra (hasta 3) que esten todas llenas, esas son para lanzar un bombazo (subir la velocidad de la pelota un 30% solo en ese golpe) y para el jugador 1 lo activa con E y el 2 con N
+
+el cpu debe ser capaz de usar todas las habilidades
+
+muestra en la pestaña de información de la bola también que se pueda leer y ver toda la inforamacion de los personajes como el aspecto también
+
+agrega 2 fondos nuevos de mapa
+
+Patra: Crea una pirámide que dure 5 segundos y la pirámide hace rebotar la pelota y después de los 5 segundos crea 15 esferas anaranjadas sin ucha opacidad del lado del oponente
+
+Froschen: reduce la velocidad de movimiento un 60% al oponente y dura 4 segundos y la barra de oponente se pone celeste por esos 4 segundos
+Dahab: lanza 3 serpientes con movimientos ondulantes que inflijen veneno al oponente por 5 segundos y recuerda que el veneno reduce progresivamente la barra del oponente además de que el oponente parpadea morado al estar envenenado
+Mider: Crea una linea vertical de telarañas en el centro de la pantalla que hacen rebotar la pelota.
+Amistad: si la pelota choca con su pegaso, coloca una barra delante que persigue la pelota o con ella la velocidad de movimiento de la barra del jugador aumenta y la velocidad de la pelota un 70% durante 4 segundos.
+Crobo: crea una burbuja de arcoíris que vuela por 3 segundos y explota si la pelota choca con la burbuja o cualquier proyectil o si el jugador teniendo la cara de la ulti vacía presiona el botón de accionar el poder la burbuja se revienta y libera partículas de acoríris que hacen rebotar a la pelota.
+Volata: Lanza una jeringa con tubo que abosrbe un 40% la ulti del oponente y le reduce la velocidad de movimiento un 20%
+Turcuclineca: Crea 4 pollitos en diferentes posiciones que pueden eliminarse si un proyectil choca con ellos o la misma pelota y los pollitos lanzan hacia la barra del oponente cada segundo un proyectil pequeño en forma de cuadrado y este proyectil reduce la velocidad del oponente un 10%.
